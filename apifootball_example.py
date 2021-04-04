@@ -1,5 +1,5 @@
 '''
-In this module you can get info about last match of the team in EPL.
+In this module you can get info about standing in the season table of the team in EPL.
 '''
 import requests
 
