@@ -5,8 +5,8 @@ from team import Team
 class Analysis:
     APIkey = '3f561cce229d17fa05f23e5fa9f1ce750c39652d1aa8fed1ae58464da66706a4'
 
-    def __init__(self):
-        self.team = None
+    def __init__(self, team_id):
+        self.team = Team(team_id)
 
     def choose_team(self):
         teams = {}
@@ -25,48 +25,48 @@ class Analysis:
         for i in range(len(teams_names)):
             print(f'{i+1}. {teams_names[i]}')
 
-        chosen_team = input('Choose the team which standing you want to see: ')
+        chosen_team = input(
+            'Choose the team which statistics analysis you want to see: ')
         while chosen_team not in teams_names:
             for i in range(len(teams_names)):
                 print(f'{i+1}. {teams_names[i]}')
 
             print('You typed a wrong team, try one more time...')
             chosen_team = input(
-                'Choose the team which standing you want to see: ')
+                'Choose the team which statistics analysis you want to see: ')
 
         self.team = Team(teams[chosen_team])
 
+    def get_info(self, criterion):
+        if criterion == 'scheme':
+            return self.analyze_team_schemas()
+        elif criterion == 'possesion':
+            return self.analyze_team_ball_possesion()
+        elif criterion == 'fouls':
+            return self.analyze_team_fouls()
+        else:
+            return self.analyze_team_shots()
+
     def analyze_team_schemas(self):
         if self.team:
-            self.team.analyze_schemas()
+            return self.team.get_schemas_info()
         else:
-            print("You haven't chosen a team yet.")
+            return "You haven't chosen a team yet."
 
     def analyze_team_ball_possesion(self):
         if self.team:
-            print(self.team.get_ball_possesion_info())
+            return self.team.get_ball_possesion_info()
         else:
-            print("You haven't chosen a team yet.")
+            return "You haven't chosen a team yet."
 
     def analyze_team_fouls(self):
         if self.team:
-            print(self.team.get_fouls_info())
+            return self.team.get_fouls_info()
         else:
-            print("You haven't chosen a team yet.")
+            return "You haven't chosen a team yet."
 
     def analyze_team_shots(self):
         if self.team:
-            print(self.team.get_shots_info())
+            return self.team.get_shots_info()
         else:
-            print("You haven't chosen a team yet.")
-
-
-if __name__ == '__main__':
-    analysis = Analysis()
-    analysis.choose_team()
-    analysis.analyze_team_schemas()
-    analysis.analyze_team_ball_possesion()
-    print()
-    analysis.analyze_team_fouls()
-    print()
-    analysis.analyze_team_shots()
+            return "You haven't chosen a team yet."

@@ -35,5 +35,20 @@ def get_teams_by_league_id():
     return make_response(jsonify(teams), 200)
 
 
+@app.route('/api/analyze', methods=['POST'])
+def analyze():
+    '''
+    Get information .
+    '''
+    request_data = request.json
+
+    criterion = request_data['criterion']
+    team_id = request_data['team_id']
+    analysis = Analysis(team_id)
+    info = analysis.get_info(criterion)
+
+    return make_response(jsonify(info), 200)
+
+
 if __name__ == '__main__':
     app.run(debug=True)
