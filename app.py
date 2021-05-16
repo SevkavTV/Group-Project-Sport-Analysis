@@ -6,10 +6,21 @@ from flask import Flask, request, jsonify, make_response
 from flask_cors import CORS
 from analysis import Analysis
 from API_requests import Requests
+import cache_data
 
 # initialize Flask
 app = Flask(__name__)
 CORS(app)
+
+
+@app.route('/api/get_all_teams', methods=['GET'])
+def get_all_teams():
+    '''
+    Get all teams in available legues.
+    '''
+    all_teams = cache_data.read_all_teams('all_teams.txt')
+
+    return make_response(jsonify(all_teams), 200)
 
 
 @app.route('/api/get_available_leagues', methods=['GET'])
