@@ -11,10 +11,11 @@ class Analysis:
     def choose_team(self):
         teams = {}
         teams_names = []
-        league_id = 149  # Championship id in our API
+        league_id = 148  # EPL id in our API
         print('Downloading the info about teams...')
 
         teams_info = Requests.get_teams_by_league_id(league_id)
+        print(teams_info)
 
         for team in teams_info:
             teams[team['team_name']] = team['team_key']
@@ -41,8 +42,31 @@ class Analysis:
         else:
             print("You haven't chosen a team yet.")
 
+    def analyze_team_ball_possesion(self):
+        if self.team:
+            print(self.team.get_ball_possesion_info())
+        else:
+            print("You haven't chosen a team yet.")
+
+    def analyze_team_fouls(self):
+        if self.team:
+            print(self.team.get_fouls_info())
+        else:
+            print("You haven't chosen a team yet.")
+
+    def analyze_team_shots(self):
+        if self.team:
+            print(self.team.get_shots_info())
+        else:
+            print("You haven't chosen a team yet.")
+
 
 if __name__ == '__main__':
     analysis = Analysis()
     analysis.choose_team()
     analysis.analyze_team_schemas()
+    analysis.analyze_team_ball_possesion()
+    print()
+    analysis.analyze_team_fouls()
+    print()
+    analysis.analyze_team_shots()

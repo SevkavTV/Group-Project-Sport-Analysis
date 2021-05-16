@@ -22,6 +22,30 @@ class Event:
 
         return self.awayteam_scheme
 
+    def get_ball_possesion(self, team_id: str):
+        for stat in self.stats:
+            if stat['type'] == "Ball Possession":
+                if team_id == self.hometeam_id:
+                    return int(stat['home'][:-1])
+
+                return int(stat['away'][:-1])
+
+    def get_fouls(self, team_id: str):
+        for stat in self.stats:
+            if stat['type'] == "Fouls":
+                if team_id == self.hometeam_id:
+                    return stat['home']
+
+                return stat['away']
+
+    def get_shots(self, team_id: str):
+        for stat in self.stats:
+            if stat['type'] == "Shots on Goal":
+                if team_id == self.hometeam_id:
+                    return stat['home']
+
+                return stat['away']
+
     def get_result(self, team_id: str):
         if team_id == self.hometeam_id:
             if self.hometeam_score > self.awayteam_score:

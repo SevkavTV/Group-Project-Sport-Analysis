@@ -21,7 +21,6 @@ class Team:
             events_lst.insert(self._num_events, Event(event))
             self._num_events += 1
 
-        print(events_lst)
         return events_lst
 
     def get_results_of_events(self):
@@ -44,6 +43,66 @@ class Team:
                 schemes[scheme][event.get_result(self._team_id)] += 1
 
         return schemes
+
+    def get_ball_possesion_info(self):
+        ball_possesion_info = {'0-29': {"win": 0, "lose": 0, "draw": 0},
+                               '30-39': {"win": 0, "lose": 0, "draw": 0},
+                               '40-49': {"win": 0, "lose": 0, "draw": 0},
+                               '50-59': {"win": 0, "lose": 0, "draw": 0},
+                               '60-69': {"win": 0, "lose": 0, "draw": 0},
+                               '70-100': {"win": 0, "lose": 0, "draw": 0}}
+
+        for event in self._events:
+            ball_possesion = event.get_ball_possesion(self._team_id)
+
+            if ball_possesion:
+                if 0 <= ball_possesion < 30:
+                    range_possesion = '0-29'
+                elif 30 <= ball_possesion < 40:
+                    range_possesion = '30-39'
+                elif 40 <= ball_possesion < 49:
+                    range_possesion = '40-49'
+                elif 50 <= ball_possesion < 59:
+                    range_possesion = '50-59'
+                elif 60 <= ball_possesion < 69:
+                    range_possesion = '60-69'
+                else:
+                    range_possesion = '70-100'
+
+                ball_possesion_info[range_possesion][event.get_result(
+                    self._team_id)] += 1
+
+        return ball_possesion_info
+
+    def get_fouls_info(self):
+        fouls_info = {}
+
+        for event in self._events:
+            fouls = event.get_fouls(self._team_id)
+
+            if fouls:
+                if fouls not in fouls_info:
+                    fouls_info[fouls] = {"win": 0, "lose": 0, "draw": 0}
+
+                fouls_info[fouls][event.get_result(
+                    self._team_id)] += 1
+
+        return fouls_info
+
+    def get_shots_info(self):
+        shots_info = {}
+
+        for event in self._events:
+            shots = event.get_shots(self._team_id)
+
+            if shots:
+                if shots not in shots_info:
+                    shots_info[shots] = {"win": 0, "lose": 0, "draw": 0}
+
+                shots_info[shots][event.get_result(
+                    self._team_id)] += 1
+
+        return shots_info
 
     def analyze_schemas(self):
         schemes = self.get_schemas_info()
@@ -72,3 +131,12 @@ class Team:
         ax.legend()
 
         plt.show()
+
+    def analyze_ball_possesion(self):
+        pass
+
+    def analyze_fouls(self):
+        pass
+
+    def analyze_shots(self):
+        pass
