@@ -1,0 +1,1050 @@
+Istra 1961 2048
+Belupo 2052
+Hajduk Split 2053
+Osijek 2054
+Lok. Zagreb 2055
+D. Zagreb 2056
+Rijeka 2057
+Sibenik 2058
+Gorica 2065
+Varazdin 2068
+Grobina 4535
+Rezekne 4550
+Alberts (Lat) 10638
+Super Nova 11066
+Auda 11067
+FK Smiltene 11069
+Riga/Staicele 14657
+Lokomotiv Daugavpils 18237
+Saldus SS/Leevon 18252
+Sparta Prague 2162
+Ostrava 2163
+Slovacko 2164
+Slavia Prague 2165
+Mlada Boleslav 2166
+Bohemians 1905 2168
+Zlin 2169
+Brno 2170
+Liberec 2172
+Jablonec 2173
+Sigma Olomouc 2174
+Teplice 2175
+Karvina 2176
+Plzen 2177
+Pribram 2179
+Opava 2180
+Ceske Budejovice 2183
+FK Pardubice 2184
+Suduva 4574
+Trakai 4577
+Banga 4663
+Zalgiris 4665
+Kauno Zalgiris 4666
+FK Panevezys 4667
+Dainava Alytus 4668
+Dziugas Telsiai 4670
+Nevezis Kedainiai 4679
+Hegelmann Litauen 4688
+AIK 7262
+Goteborg 7263
+Norrkoping 7264
+Orebro 7265
+Djurgarden 7266
+Hacken 7268
+Kalmar 7269
+Sirius 7270
+Malmo FF 7271
+Hammarby 7273
+Halmstad 7274
+Ostersunds 7276
+Elfsborg 7277
+Degerfors 7285
+Varbergs 7288
+Mjallby 7310
+Stuttgart 3221
+Freiburg 3222
+Werder Bremen 3223
+Augsburg 3224
+Bayern Munich 3225
+RB Leipzig 3226
+Bayer Leverkusen 3227
+FC Koln 3228
+Dortmund 3230
+Hertha Berlin 3231
+Hoffenheim 3233
+B. Monchengladbach 3234
+Schalke 3235
+Wolfsburg 3236
+Mainz 3237
+Eintracht Frankfurt 3238
+Union Berlin 3242
+Arminia Bielefeld 3251
+Salzburg 930
+Rapid Vienna 932
+Qarabag 1018
+Brest 1055
+Club Brugge KV 1107
+Gent 1118
+D. Zagreb 2056
+Omonia 2141
+Slavia Prague 2165
+Midtjylland 2336
+Chelsea 2616
+Liverpool 2621
+Manchester City 2626
+Manchester United 2627
+Marseille 3023
+Rennes 3035
+Paris SG 3040
+Bayern Munich 3225
+RB Leipzig 3226
+Dortmund 3230
+B. Monchengladbach 3234
+PAOK 3423
+Olympiakos Piraeus 3434
+Ferencvaros 3652
+Maccabi Tel Aviv 4137
+Atalanta 4181
+Lazio 4183
+Juventus 4187
+Inter 4189
+AZ Alkmaar 5079
+Ajax 5087
+Molde 5371
+FC Porto 6112
+Benfica 6119
+Krasnodar 6416
+Zenit Petersburg 6418
+Lokomotiv Moscow 6419
+FK Crvena zvezda (Srb) 6690
+Real Madrid 7099
+Sevilla 7102
+Barcelona 7105
+Atl. Madrid 7106
+Young Boys 7396
+Basaksehir 7615
+Dyn. Kiev 7767
+Shakhtar Donetsk 7774
+St. Polten W 1005
+PSV W 5165
+Ajax W 5171
+Zurich W 7468
+Bayern Munich W 9372
+Goteborg W 9393
+Lyon W 9408
+Paris SG W 9409
+Wolfsburg W 9436
+Valerenga W 9458
+LSK Kvinner W 9459
+Barcelona W 9460
+Atletico Madrid W 9463
+Rosengard W 9465
+Shymkent W 9510
+Sparta Prague W 9513
+Fiorentina W 9514
+Chelsea W 9515
+Manchester City W 9518
+Slavia Prague W 9520
+Fortuna Hjorring W 9832
+Brondby W 9835
+Juventus W 10758
+Glasgow City W (Sco) 11838
+Minsk FK W (Blr) 11840
+Leczna W (Pol) 11848
+Subotica W (Srb) 11852
+Servette Geneve FC W 12063
+Pomurje W (Slo) 15121
+Benfica W 16434
+Guria L. W (Geo) 19186
+Zhilstroy-2 W (Ukr) 19188
+TNS 6653
+Connahs Q. 6659
+Barry 8089
+Bala 8091
+Newtown 8093
+Aberystwyth 8095
+Cardiff Metropolitan 8096
+Druids 8098
+Haverfordwest 8101
+Penybont 8105
+Caernarfon 8115
+Flint 8122
+Milsami 4937
+Dinamo-Auto 4938
+Speranta Nisporeni 4939
+Petrocub 4940
+Sheriff Tiraspol 4943
+Sfintul 4944
+Zimbru Chisinau 4946
+Codru Lozova 4958
+Floresti 10956
+CSCA Buiucani 10957
+Lechia Gdansk 5944
+Legia 5946
+Jagiellonia 5948
+Zaglebie 5949
+Gornik Z. 5951
+Cracovia 5952
+Piast Gliwice 5954
+Plock 5955
+Lech Poznan 5956
+Wisla 5957
+Slask Wroclaw 5958
+Pogon Szczecin 5959
+Stal Mielec 5965
+Rakow 5967
+Podbeskidzie 5974
+Warta Poznan 5979
+Lillestrom 5368
+Valerenga 5370
+Molde 5371
+Kristiansund 5372
+Odd 5373
+Rosenborg 5374
+Stabaek 5375
+Sarpsborg 08 5376
+Sandefjord 5377
+Stromsgodset 5378
+Tromso 5380
+Viking 5381
+Haugesund 5382
+Brann 5383
+Bodo/Glimt 5441
+Mjondalen 5445
+Heerenveen 5078
+AZ Alkmaar 5079
+Sparta Rotterdam 5080
+Groningen 5081
+Utrecht 5082
+Breda 5083
+Vitesse 5084
+PSV 5085
+Willem II 5086
+Ajax 5087
+Zwolle 5088
+Den Haag 5089
+Heracles 5090
+Venlo 5091
+Roda 5092
+Feyenoord 5093
+Twente 5094
+Volendam 5097
+Almere City 5099
+FC Emmen 5106
+Graafschap 5110
+Sittard 5111
+Nijmegen 5112
+Waalwijk 5114
+Belgium 8310
+Cyprus 8311
+Estonia 8312
+Bosnia & Herzegovina 8313
+France 8314
+Belarus 8315
+Greece 8316
+Gibraltar 8317
+Hungary 8318
+Faroe Islands 8319
+Latvia 8320
+Andorra 8321
+Luxembourg 8322
+Bulgaria 8323
+Netherlands 8324
+Sweden 8325
+Portugal 8326
+Switzerland 8327
+Albania 8330
+Italy 8331
+Finland 8332
+Turkey 8333
+FYR Macedonia 8334
+Liechtenstein 8335
+Iceland 8336
+Kosovo 8337
+Israel 8338
+Spain 8339
+Moldova 8340
+Austria 8341
+Serbia 8342
+Georgia 8343
+Ukraine 8344
+Croatia 8345
+Wales 8346
+Ireland 8347
+Czech Republic 8348
+San Marino 8349
+Germany 8350
+Azerbaijan 8351
+Norway 8352
+Northern Ireland 8353
+Denmark 8354
+Romania 8355
+Kazakhstan 8356
+Armenia 8357
+Lithuania 8358
+England 8359
+Poland 8360
+Montenegro 8361
+Slovakia 8362
+Malta 8363
+Slovenia 8364
+Scotland 8365
+Russia 8698
+Laci 3
+Kukesi 7
+Teuta 12
+KF Tirana 22
+Inter Club Escaldes 107
+Avan Academy 704
+AC Wolfsberger 924
+LASK Linz 926
+Salzburg 930
+Rapid Vienna 932
+Hartberg 940
+Neftci Baku 1012
+Qarabag 1018
+Brest 1055
+BATE 1061
+Antwerp 1104
+St. Liege 1105
+Club Brugge KV 1107
+Charleroi 1117
+Gent 1118
+FK Sarajevo 1454
+Zrinjski 1457
+Borac Banja Luka (Bih) 1458
+Ludogorets 1669
+CSKA-Sofia 1673
+Lok. Plovdiv 1680
+Hajduk Split 2053
+Osijek 2054
+Lok. Zagreb 2055
+D. Zagreb 2056
+Rijeka 2057
+Apollon 2133
+APOEL 2140
+Omonia 2141
+Anorthosis 2142
+Sparta Prague 2162
+Slavia Prague 2165
+Liberec 2172
+Jablonec 2173
+Plzen 2177
+FC Copenhagen 2334
+Sonderjyske 2337
+Aarhus 2341
+Leicester 2611
+Arsenal 2617
+Manchester United 2627
+Tottenham 2628
+Flora 2831
+B36 Torshavn 2931
+Klaksvik 2934
+KuPS 2955
+Lille 3022
+Nice 3041
+Reims 3046
+Shkendija 3146
+Sileks 3149
+Renova 3151
+Lokomotiv Tbilisi 3191
+Dinamo Tbilisi 3194
+Bayer Leverkusen 3227
+Hoffenheim 3233
+Wolfsburg 3236
+Europa FC 3416
+Lincoln Red Imps 3419
+PAOK 3423
+AEK Athens FC 3426
+Olympiakos Piraeus 3434
+OFI Crete 3446
+Aris 3455
+Honved 3646
+Videoton 3654
+KR Reykjavik 3789
+Dundalk 4086
+Shamrock Rovers 4087
+Maccabi Tel Aviv 4137
+H. Beer Sheva 4146
+Maccabi Haifa 4148
+Napoli 4174
+AS Roma 4184
+AC Milan 4186
+FC Astana 4454
+K. Almaty 4455
+Kaisar Kyzylorda 4457
+Drita 4491
+Riga FC 4528
+Ventspils 4534
+Suduva 4574
+Trakai 4577
+Zalgiris 4665
+Fola 4700
+Niedercorn 4704
+Union Titus Petange 4709
+Floriana 4850
+Hibernians 4852
+Sheriff Tiraspol 4943
+Sfintul 4944
+Buducnost 4969
+AZ Alkmaar 5079
+PSV 5085
+Willem II 5086
+Ajax 5087
+Feyenoord 5093
+Coleraine 5225
+Linfield 5229
+Molde 5371
+Rosenborg 5374
+Viking 5381
+Bodo/Glimt 5441
+Legia 5946
+Piast Gliwice 5954
+Lech Poznan 5956
+Braga 6109
+Rio Ave 6117
+Sporting 6118
+Benfica 6119
+FC Botosani 6303
+FCSB 6305
+CFR Cluj 6306
+Krasnodar 6416
+Dynamo Moscow 6420
+FK Rostov 6424
+CSKA Moscow 6427
+Tre Fiori 6556
+Aberdeen 6578
+Celtic 6580
+Motherwell 6584
+Rangers 6589
+TNS 6653
+Connahs Q. 6659
+Partizan 6678
+FK Crvena zvezda (Srb) 6690
+Vojvodina 6692
+Backa Topola 6702
+Dun. Streda 6743
+Slovan Bratislava 6748
+NK Olimpija Ljubljana 6831
+Celje 6835
+Mura 6939
+Real Sociedad 7101
+Villarreal 7107
+Granada CF 7110
+Goteborg 7263
+Djurgarden 7266
+Malmo FF 7271
+Hammarby 7273
+St. Gallen 7394
+Young Boys 7396
+Basel 7401
+Servette Geneve FC 7403
+Galatasaray 7606
+Sivasspor 7610
+Alanyaspor 7613
+Besiktas 7614
+Dyn. Kiev 7767
+FK Zorya Luhansk 7768
+Shakhtar Donetsk 7774
+Desna 7776
+Kolos Kovalyovka 7791
+Bala 8091
+Everton U18 12899
+Chelsea U18 13046
+Leicester U18 13051
+West Brom U18 13057
+Arsenal U18 13058
+Tottenham U18 13060
+Aston Villa U18 13062
+West Ham U18 13063
+Liverpool U18 13068
+Newcastle Utd U18 13069
+ 19704
+ 19704
+ 19704
+Ipswich U18 19710
+Ermis 2129
+AEL Limassol 2130
+Ol. Nicosia 2131
+Nea Salamis 2132
+Apollon 2133
+Doxa 2134
+Paphos 2135
+AEK Larnaca 2138
+Achnas 2139
+APOEL 2140
+Omonia 2141
+Anorthosis 2142
+Paralimni 2146
+Karmiotissa (Cyp) 2149
+Trencin 6740
+Trnava 6741
+Ruzomberok 6742
+Dun. Streda 6743
+Michalovce 6744
+Nitra 6746
+Slovan Bratislava 6748
+Senica 6749
+Zilina 6750
+Z. Moravce 6751
+Sered 6752
+Pohronie 6767
+Mouscron 1103
+Antwerp 1104
+St. Liege 1105
+Waasland-Beveren 1106
+Club Brugge KV 1107
+St. Truiden 1108
+Kortrijk 1109
+Genk 1110
+Oostende 1112
+Waregem 1113
+KV Mechelen 1114
+Eupen 1115
+Anderlecht 1116
+Charleroi 1117
+Gent 1118
+Cercle Brugge KSV 1120
+Leuven 1121
+Beerschot Wilrijk 1125
+Seraing 1138
+Betis 7091
+Celta Vigo 7095
+Eibar 7096
+Levante 7097
+Real Madrid 7099
+Getafe 7100
+Real Sociedad 7101
+Sevilla 7102
+Ath Bilbao 7104
+Barcelona 7105
+Atl. Madrid 7106
+Villarreal 7107
+Alaves 7108
+Valencia 7109
+Granada CF 7110
+Osasuna 7113
+Valladolid 7115
+Huesca 7125
+Cadiz CF 7126
+Elche 7173
+Beitar Tel Aviv 4120
+Hap. Ramat Gan 4121
+Hapoel Afula 4122
+Ramat Hasharon 4123
+Hapoel Petah Tikva 4125
+H. Ironi Rishon 4126
+Hapoel Katamon 4129
+H. Nazareth 4133
+M. Nazareth 4134
+H. Raanana 4145
+Hapoel Iksal Imad 4151
+H. Akko 4154
+Kfar Kasem 4157
+Hapoel Umm al-Fahm 4158
+Hapoel Kfar Shalem 4160
+Nes Tziona (Isr) 9182
+Din. Bucuresti (Rou) 6300
+FC Viitorul 6301
+Sepsi 6302
+FC Botosani 6303
+CS U. Craiova 6304
+FCSB 6305
+CFR Cluj 6306
+Gaz Metan Medias 6307
+Astra 6309
+Voluntari 6310
+Poli Iasi 6312
+Chindia Targoviste 6314
+AFC Hermannstadt 6317
+UTA Arad 6323
+Clinceni 6327
+Arges Pitesti 10428
+Hapoel Hadera 4127
+Hapoel Tel Aviv 4128
+Hapoel Kfar-Saba 4131
+Yehuda 4136
+Maccabi Tel Aviv 4137
+Beitar Jerusalem 4138
+Maccabi Petah Tikva 4139
+Shmona 4140
+Hapoel Haifa 4141
+Moadon Sport Ashdod 4142
+Sakhnin 4143
+H. Beer Sheva 4146
+Maccabi Haifa 4148
+Netanya 4149
+Lille 3022
+Marseille 3023
+St Etienne 3025
+Lyon 3026
+Metz 3027
+Dijon 3030
+Nantes 3031
+Montpellier 3034
+Rennes 3035
+Strasbourg 3036
+Angers 3037
+Bordeaux 3038
+Monaco 3039
+Paris SG 3040
+Nice 3041
+Lorient 3044
+Reims 3046
+Nimes 3049
+Brest 1055
+Lens 3060
+Flora 2831
+Tammeka 2832
+Parnu JK Vaprus 2833
+Paide 2836
+Tulevik 2837
+Kalju 2838
+Narva 2839
+Levadia 2840
+Kuressaare 2843
+Legion 2882
+Benfica 6119
+Victoria Rosport 4696
+Differdange 4697
+UNA Strassen 4698
+Dudelange 4699
+Fola 4700
+Jeunesse Esch 4703
+Niedercorn 4704
+Mondorf 4705
+Racing Luxembourg 4706
+Rodange 4707
+Hostert 4708
+Union Titus Petange 4709
+Hesperange 4710
+Wiltz 4722
+Ettelbruck 4723
+Ballymena 5221
+Warrenpoint 5222
+C. Rangers 5223
+Glenavon 5224
+Coleraine 5225
+Glentoran 5226
+Dungannon 5227
+Cliftonville 5228
+Linfield 5229
+Crusaders 5231
+Larne 5356
+Portadown 5365
+Puskas Academy 3643
+Honved 3646
+Paks 3648
+DVTK 3650
+Mezokovesd-Zsory 3651
+Ferencvaros 3652
+Ujpest 3653
+Videoton 3654
+MTK Budapest 3659
+Budafoki 3661
+Zalaegerszegi 3668
+Kisvarda 3670
+Ludogorets 1669
+Levski 1670
+Vereya 1671
+Beroe 1672
+CSKA-Sofia 1673
+Slavia Sofia 1674
+Botev Plovdiv 1676
+Bistritsa 1677
+Cherno More 1678
+Etar 1679
+Lok. Plovdiv 1680
+Botev Vratsa 1685
+Montana 1691
+Tsarsko Selo 1696
+Arda (Bul) 11167
+CSKA 1948 Sofia (Bul) 11184
+Akranes 3783
+Hafnarfjordur 3787
+Breidablik 3788
+KR Reykjavik 3789
+Stjarnan 3790
+Valur 3809
+Vikingur Reykjavik 3810
+KA Akureyri 3813
+Fylkir 3838
+Kopavogur 3840
+Keflavik 3841
+Leiknir 3842
+Bohemians 4077
+Finn Harps 4078
+Derry City 4081
+St. Patricks 4082
+Drogheda 4083
+Sligo Rovers 4084
+Dundalk 4086
+Shamrock Rovers 4087
+Longford 4091
+Waterford 4096
+Akhmat Grozny 6412
+Ufa 6414
+Rubin Kazan 6415
+Krasnodar 6416
+Zenit Petersburg 6418
+Lokomotiv Moscow 6419
+Dynamo Moscow 6420
+Ural 6423
+FK Rostov 6424
+Spartak Moscow 6425
+Arsenal Tula 6426
+CSKA Moscow 6427
+R. Volgograd 6431
+FC Tambov 6440
+FK Chimki Moskovska oblast 6446
+Sochi 15591
+FK Sarajevo 1454
+Siroki Brijeg 1456
+Zrinjski 1457
+Borac Banja Luka (Bih) 1458
+Zeljeznicar 1460
+Mladost DK 1461
+Krupa 1462
+Radnik Bijeljina 1464
+Sloboda 1465
+Sloga Simin Han 1466
+Velez Mostar 1479
+Olimpic Sarajevo 1480
+Mariupol 7765
+Dyn. Kiev 7767
+FK Zorya Luhansk 7768
+Oleksandriya 7769
+Olimpik Donetsk 7771
+Vorskla Poltava 7773
+Shakhtar Donetsk 7774
+Desna 7776
+Rukh Vynnyky 7787
+Kolos Kovalyovka 7791
+Inhulets 7792
+Dnipro-1 7794
+Lviv 7797
+Minaj (Ukr) 11179
+Leicester 2611
+Everton 2612
+Brighton 2613
+Southampton 2614
+Chelsea 2616
+Arsenal 2617
+Crystal Palace 2619
+West Ham 2620
+Liverpool 2621
+West Brom 2625
+Manchester City 2626
+Manchester United 2627
+Tottenham 2628
+Burnley 2629
+Newcastle 2630
+Aston Villa 2632
+Fulham 2639
+Wolves 2646
+Leeds 2653
+Sheffield Utd 2654
+Aberdeen 6578
+Ross County 6579
+Celtic 6580
+Kilmarnock 6581
+Dundee FC 6582
+Hamilton 6583
+Motherwell 6584
+Hibernian 6585
+St Johnstone 6587
+Rangers 6589
+Dundee Utd 6591
+Dunfermline 6593
+Livingston 6594
+St. Mirren 6598
+Raith 6607
+Portimonense 6103
+Guimaraes 6106
+Ferreira 6107
+Braga 6109
+Boavista 6111
+FC Porto 6112
+Belenenses 6113
+Moreirense 6114
+Maritimo 6115
+Tondela 6116
+Rio Ave 6117
+Sporting 6118
+Benfica 6119
+Santa Clara 6121
+Nacional 6130
+Famalicao 6136
+Gil Vicente 6139
+SC Farense 6199
+Buducnost 4969
+Sutjeska 4971
+Zeta 4972
+Decic 4973
+Rudar 4974
+Iskra 4975
+OFK Petrovac 4976
+Mladost Podgorica 4978
+Mladost Ljeskopolje 4982
+Jezero 4985
+Aluminij 6828
+ND Gorica 6829
+NK Olimpija Ljubljana 6831
+Domzale 6832
+Maribor 6833
+Celje 6835
+NK Bravo 6936
+Tabor Sezana 6938
+Mura 6939
+Koper 6943
+Torino 4170
+Cagliari 4171
+Crotone 4172
+Fiorentina 4173
+Napoli 4174
+Sassuolo 4175
+Sampdoria 4176
+Genoa 4179
+Udinese 4180
+Atalanta 4181
+Benevento 4182
+Lazio 4183
+AS Roma 4184
+Bologna 4185
+AC Milan 4186
+Juventus 4187
+Verona 4188
+Inter 4189
+Parma 4192
+Spezia 4206
+Vaduz 4652
+Lugano 7392
+Luzern 7393
+St. Gallen 7394
+Young Boys 7396
+Sion 7397
+Lausanne 7398
+Zurich 7400
+Basel 7401
+Servette Geneve FC 7403
+PAOK 3423
+Asteras Tripolis 3424
+AEK Athens FC 3426
+Lamia 3427
+Platanias FC 3428
+Panetolikos 3429
+Smyrnis 3430
+Xanthi FC 3431
+Atromitos 3432
+Panathinaikos 3433
+Olympiakos Piraeus 3434
+Giannina 3435
+AEL Larissa 3437
+OFI Crete 3446
+Aris 3455
+Volos NFC 3486
+Fenerbahce 7603
+Kayserispor 7604
+Trabzonspor 7605
+Galatasaray 7606
+Antalyaspor 7608
+Sivasspor 7610
+Konyaspor 7611
+Alanyaspor 7613
+Besiktas 7614
+Basaksehir 7615
+Genclerbirligi 7617
+Yeni Malatyaspor 7618
+Kasimpasa 7619
+Goztepe 7620
+Ankaragucu 7621
+Rizespor 7623
+Erzurum BB 7629
+Denizlispor 7630
+Gaziantep 7631
+Karagumruk 7645
+Hatayspor 7665
+Partizan 6678
+Cukaricki 6679
+FK Vozdovac 6680
+Mladost 6681
+Macva 6682
+Radnicki Nis 6683
+Napredak 6684
+Radnik 6685
+Sp. Subotica 6686
+Backa 6687
+Javor 6688
+FK Crvena zvezda (Srb) 6690
+Rad Beograd 6691
+Vojvodina 6692
+Proleter 6695
+Metalac 6700
+FK Indjija 6701
+Backa Topola 6702
+Novi Pazar 6704
+Radnicki 1923 6708
+Zlatibor Cajetina 6709
+Aalborg 2331
+Odense 2332
+Horsens 2333
+FC Copenhagen 2334
+Lyngby 2335
+Midtjylland 2336
+Sonderjyske 2337
+Silkeborg 2340
+Aarhus 2341
+Nordsjaelland 2342
+Randers FC 2343
+Brondby 2344
+Vejle 2348
+AC Wolfsberger 924
+Sturm Graz 925
+LASK Linz 926
+Austria Vienna 927
+St. Polten 929
+Salzburg 930
+Altach 931
+Rapid Vienna 932
+Admira 933
+Ried 935
+Wattens 937
+Hartberg 940
+Belgium 8310
+Cyprus 8311
+Estonia 8312
+Bosnia & Herzegovina 8313
+France 8314
+Belarus 8315
+Greece 8316
+Gibraltar 8317
+Hungary 8318
+Faroe Islands 8319
+Latvia 8320
+Andorra 8321
+Luxembourg 8322
+Bulgaria 8323
+Netherlands 8324
+Sweden 8325
+Portugal 8326
+Switzerland 8327
+Albania 8330
+Italy 8331
+Finland 8332
+Turkey 8333
+FYR Macedonia 8334
+Liechtenstein 8335
+Iceland 8336
+Kosovo 8337
+Israel 8338
+Spain 8339
+Moldova 8340
+Austria 8341
+Serbia 8342
+Georgia 8343
+Ukraine 8344
+Croatia 8345
+Wales 8346
+Ireland 8347
+Czech Republic 8348
+San Marino 8349
+Germany 8350
+Azerbaijan 8351
+Norway 8352
+Northern Ireland 8353
+Denmark 8354
+Romania 8355
+Kazakhstan 8356
+Armenia 8357
+Lithuania 8358
+England 8359
+Poland 8360
+Montenegro 8361
+Slovakia 8362
+Malta 8363
+Slovenia 8364
+Scotland 8365
+Russia 8698
+HJK 2946
+Lahti 2950
+HIFK 2951
+Mariehamn 2952
+Ilves 2953
+KuPS 2955
+SJK 2956
+Inter Turku 2957
+AC Oulu 2958
+Haka 2963
+Honka 2964
+KTP 2972
+Brest 1055
+Zhodino 1056
+FC Minsk 1057
+Neman 1058
+Slavia Mozyr 1059
+Vitebsk 1060
+BATE 1061
+Isloch Minsk 1063
+Din. Minsk 1064
+FC Gomel 1065
+Slutsk 1067
+Shakhtyor Soligorsk 1069
+Energetik-BGU 1071
+Smorgon 1075
+Sputnik 1098
+Rukh Brest 14668
+Belgium 8310
+Cyprus 8311
+Estonia 8312
+Bosnia & Herzegovina 8313
+France 8314
+Belarus 8315
+Greece 8316
+Gibraltar 8317
+Hungary 8318
+Faroe Islands 8319
+Latvia 8320
+Andorra 8321
+Luxembourg 8322
+Bulgaria 8323
+Netherlands 8324
+Sweden 8325
+Portugal 8326
+Switzerland 8327
+Albania 8330
+Italy 8331
+Finland 8332
+Turkey 8333
+FYR Macedonia 8334
+Liechtenstein 8335
+Iceland 8336
+Kosovo 8337
+Israel 8338
+Spain 8339
+Moldova 8340
+Austria 8341
+Serbia 8342
+Georgia 8343
+Ukraine 8344
+Croatia 8345
+Wales 8346
+Ireland 8347
+Czech Republic 8348
+San Marino 8349
+Germany 8350
+Azerbaijan 8351
+Norway 8352
+Northern Ireland 8353
+Denmark 8354
+Romania 8355
+Kazakhstan 8356
+Armenia 8357
+Lithuania 8358
+England 8359
+Poland 8360
+Montenegro 8361
+Slovakia 8362
+Malta 8363
+Slovenia 8364
+Scotland 8365
+Russia 8698
