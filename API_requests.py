@@ -32,11 +32,9 @@ class Requests:
         return response.json()
 
     @staticmethod
-    def get_events_by_team_id(team_id):
-        """
-        This method returns events connected with team using team ID number.
-        """
-        request_url = f'https://apiv2.apifootball.com/?action=get_events&from=2015-01-01&to=2019-12-31&team_id={team_id}&APIkey={Requests.APIkey}'
+    def get_events_by_team_id(team_id, start_date, end_date):
+        request_url = f'https://apiv2.apifootball.com/?action=get_events&from={start_date}&to={end_date}&team_id={team_id}&APIkey={Requests.APIkey}'
+        print(request_url)
         response = requests.get(request_url)
 
         return response.json()

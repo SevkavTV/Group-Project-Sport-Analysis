@@ -55,7 +55,10 @@ def analyze():
 
     criterion = request_data['criterion']
     team_id = request_data['team_id']
-    analysis = Analysis(team_id)
+    start_date = request_data['start_date']
+    end_date = request_data['end_date']
+    print(start_date, end_date)
+    analysis = Analysis(team_id, start_date, end_date)
     info = analysis.get_info(criterion)
 
     return make_response(jsonify(info), 200)

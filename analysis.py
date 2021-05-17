@@ -12,8 +12,8 @@ class Analysis:
     """
     APIkey = '3f561cce229d17fa05f23e5fa9f1ce750c39652d1aa8fed1ae58464da66706a4'
 
-    def __init__(self, team_id):
-        self.team = Team(team_id)
+    def __init__(self, team_id, start_date, end_date):
+        self.team = Team(team_id, start_date, end_date)
 
     def choose_team(self):
         """
