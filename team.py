@@ -6,15 +6,16 @@ import numpy
 
 
 class Team:
-    def __init__(self, team_id: str):
+    def __init__(self, team_id: str, start_date: str, end_date: str):
         self._team_id = team_id
         self._num_events = 0
-        self._events = self.get_last_events()
+        self._events = self.get_last_events(start_date, end_date)
 
-    def get_last_events(self):
+    def get_last_events(self, start_date: str, end_date: str):
         print('Getting last events about your team...')
 
-        events_json = Requests.get_events_by_team_id(self._team_id)
+        events_json = Requests.get_events_by_team_id(
+            self._team_id, start_date, end_date)
 
         events_lst = ArrayExpanded(len(events_json))
         for event in events_json:
