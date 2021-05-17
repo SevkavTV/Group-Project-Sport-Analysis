@@ -1,14 +1,24 @@
+"""
+This is the module which contains class which returns analysis based on team you have selected.
+"""
+
 from API_requests import Requests
 from team import Team
 
 
 class Analysis:
+    """
+    Analysing class.
+    """
     APIkey = '3f561cce229d17fa05f23e5fa9f1ce750c39652d1aa8fed1ae58464da66706a4'
 
     def __init__(self, team_id):
         self.team = Team(team_id)
 
     def choose_team(self):
+        """
+        This method allows to choose team.
+        """
         teams = {}
         teams_names = []
         league_id = 148  # EPL id in our API
@@ -38,6 +48,9 @@ class Analysis:
         self.team = Team(teams[chosen_team])
 
     def get_info(self, criterion):
+        """
+        This method returns information which you choose.
+        """
         if criterion == 'scheme':
             return self.analyze_team_schemas()
         elif criterion == 'possesion':
@@ -48,24 +61,36 @@ class Analysis:
             return self.analyze_team_shots()
 
     def analyze_team_schemas(self):
+        """
+        This method returns schemas which team uses.
+        """
         if self.team:
             return self.team.get_schemas_info()
         else:
             return "You haven't chosen a team yet."
 
     def analyze_team_ball_possesion(self):
+        """
+        This method returns ball possesion of the team.
+        """
         if self.team:
             return self.team.get_ball_possesion_info()
         else:
             return "You haven't chosen a team yet."
 
     def analyze_team_fouls(self):
+        """
+        This method returns team fouls.
+        """
         if self.team:
             return self.team.get_fouls_info()
         else:
             return "You haven't chosen a team yet."
 
     def analyze_team_shots(self):
+        """
+        This method returns team shots.
+        """
         if self.team:
             return self.team.get_shots_info()
         else:

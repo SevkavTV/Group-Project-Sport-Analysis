@@ -1,7 +1,14 @@
+"""
+This module caches data taken from the API.
+"""
+
 from API_requests import Requests
 
 
 def get_all_teams():
+    """
+    This fucntion returns all available teams.
+    """
     all_teams = []
     teams_names = []
 
@@ -19,6 +26,9 @@ def get_all_teams():
 
 
 def write_to_file(file_path, data):
+    """
+    This function writes all teams from def get_all_teams().
+    """
     with open(file_path, 'w', encoding='utf-8') as file:
         for line in data:
             print(line[0])
@@ -26,6 +36,9 @@ def write_to_file(file_path, data):
 
 
 def read_all_teams(file_path):
+    """
+    This function reades and returns all the teams from file.
+    """
     all_teams = []
     with open(file_path, 'r', encoding='utf-8') as file:
         for line in file:

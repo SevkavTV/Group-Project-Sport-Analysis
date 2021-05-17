@@ -1,3 +1,7 @@
+"""
+This module contains ADT -> Team.
+"""
+
 from event import Event
 from arrays import ArrayExpanded
 from API_requests import Requests
@@ -6,12 +10,20 @@ import numpy
 
 
 class Team:
+    """
+    Team ADT
+    The atribute of this class is team ID.
+    """
+
     def __init__(self, team_id: str):
         self._team_id = team_id
         self._num_events = 0
         self._events = self.get_last_events()
 
     def get_last_events(self):
+        """
+        This method return all last eventes.
+        """
         print('Getting last events about your team...')
 
         events_json = Requests.get_events_by_team_id(self._team_id)
@@ -24,6 +36,9 @@ class Team:
         return events_lst
 
     def get_results_of_events(self):
+        """
+        This method returns result of the chosen event.
+        """
         results = {"win": 0, "lose": 0, "draw": 0}
 
         for event in self._events:
@@ -32,6 +47,9 @@ class Team:
         return results
 
     def get_schemas_info(self):
+        """
+        This method returns information about schemas which team uses.
+        """
         schemes = {}
         for event in self._events:
             scheme = event.get_scheme(self._team_id)
@@ -45,6 +63,9 @@ class Team:
         return schemes
 
     def get_ball_possesion_info(self):
+        """
+        This method returns teams ball possesion.
+        """
         ball_possesion_info = {'0-29': {"win": 0, "lose": 0, "draw": 0},
                                '30-39': {"win": 0, "lose": 0, "draw": 0},
                                '40-49': {"win": 0, "lose": 0, "draw": 0},
@@ -75,6 +96,9 @@ class Team:
         return ball_possesion_info
 
     def get_fouls_info(self):
+        """
+        This method returns information about fouls in a game.
+        """
         fouls_info = {}
 
         for event in self._events:
@@ -90,6 +114,9 @@ class Team:
         return fouls_info
 
     def get_shots_info(self):
+        """
+        This method retruns information about shots in the game.
+        """
         shots_info = {}
 
         for event in self._events:
@@ -105,6 +132,9 @@ class Team:
         return shots_info
 
     def analyze_schemas(self):
+        """
+        This method returns analysis of the schemas displayed in graphic.
+        """
         schemes = self.get_schemas_info()
 
         labels1, win_count, lose_count, draw_count = [], [], [], []
@@ -131,12 +161,3 @@ class Team:
         ax.legend()
 
         plt.show()
-
-    def analyze_ball_possesion(self):
-        pass
-
-    def analyze_fouls(self):
-        pass
-
-    def analyze_shots(self):
-        pass
