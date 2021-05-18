@@ -6,8 +6,7 @@
 The project is aimed to analyze any football team from Europe Leauges for any purpose.
 By requesting information for a specific footbal team directly ot through league team list you will recieve following information:
 * Visualization of effectiveness of team placements
-* 2
-* 3
+* Analysis of team's success depending on different football stat parameters.
 ## How To Install:
 > It is simpler than you think!
 ```
